@@ -113,4 +113,4 @@ MIT License
 
 ## Author
 
-Developed by blinchic111.
+Developed by blinchic111 (egorbratenko3-code)
